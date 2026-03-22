@@ -1,43 +1,51 @@
-# AI Blue: Systematic Color Recognition Bias in Vision-Language Models
+# AI Blue: Color Recognition Bias in Vision-Language Models
 
-> **Paper**: *AI Blue: Systematic Color Recognition Bias in Vision-Language Models and Its Implications for AI-Generated UI Design*
->
-> **Author**: Ken Imoto (Propel-Lab) — [kenimoto.dev](https://kenimoto.dev)
+![AI Blue Overview](hero.png)
 
-## Overview
+**VLMs can't see color accurately — and it's making every AI-generated UI look the same.**
 
-This repository contains the code, data, and paper for a systematic evaluation of color recognition accuracy across four Vision-Language Models (VLMs):
+We tested 4 models × 40 colors × 3 trials = 480 observations. Commercial VLMs miss intermediate hues. Open-source models are 10x worse. 95% of AI-generated UI colors land on blue-purple. This is why "AI Slop" looks the way it does.
 
-- **GPT-4o** (OpenAI)
-- **Claude 3.5 Sonnet** (Anthropic)
-- **Claude Sonnet 4** (Anthropic)
-- **LLaVA 7B** (Open-source)
+📄 **[Read the Paper (PDF)](paper/main.pdf)** · 🌐 **[kenimoto.dev](https://kenimoto.dev)**
 
-We tested 40 colors × 4 models × 3 trials = **480 observations**, measured by **CIEDE2000** color difference.
+---
 
 ## Key Findings
 
-| Model | Mean ΔE₀₀ | Parse Rate |
-|-------|-----------|------------|
-| GPT-4o | **2.51** | 100% |
-| Claude 3.5 Sonnet | 3.16 | 100% |
-| Claude Sonnet 4 | 3.33 | 100% |
-| LLaVA 7B | 24.63 | 78% |
+- **Commercial VLMs (GPT-4o, Claude)** achieve ΔE₀₀ of 2.5–3.3 — barely perceptible, but systematically fail on intermediate hues (teal, lime, purple)
+- **Open-source LLaVA 7B** shows 10x worse accuracy (ΔE₀₀ = 24.63, p < 0.001, Cohen's d = −1.75)
+- **Claude Sonnet 4 regressed from 3.5** — newer model versions don't guarantee better color perception
+- **95.4% of AI-generated UI pixels** fall in the blue-purple (240°) hue range
+- **Prompt language doesn't matter** — English and Japanese prompts yield comparable accuracy
 
-- Commercial VLMs achieve moderate accuracy (ΔE₀₀ 2.5–3.3) but systematically fail on intermediate hues
-- LLaVA 7B shows substantially lower accuracy (p < 0.001, Cohen's d = −1.75)
-- Claude Sonnet 4 performs **worse** than Claude 3.5 Sonnet (model version regression)
-- Prompt language (English vs Japanese) has minimal effect on accuracy
-- AI-generated UIs are 95.4% concentrated in the blue-purple (240°) hue range
+## Quick Results
+
+| Model | Mean ΔE₀₀ | Median | Max | Parse Rate |
+|-------|-----------|--------|-----|------------|
+| GPT-4o | **2.51** | 1.96 | 12.24 | 100% |
+| Claude 3.5 Sonnet | 3.16 | 2.95 | 16.36 | 100% |
+| Claude Sonnet 4 | 3.33 | 3.14 | 16.36 | 100% |
+| LLaVA 7B | 24.63 | 25.47 | 100.00 | 78% |
+
+> **Statistical significance**: Kruskal–Wallis H = 110.15, p < 0.001. Commercial vs. OSS: Cohen's d = −1.75 (very large effect).
+
+## Method
+
+1. **40 solid-color stimuli** sampled from HSL color space (12 hues × 3 saturations + 4 achromatic)
+2. **4 VLMs**: GPT-4o, Claude 3.5 Sonnet, Claude Sonnet 4, LLaVA 7B
+3. **CIEDE2000** color difference (perceptually uniform, industry standard)
+4. **3 supplementary experiments**: cross-lingual prompts, UI components (button/card/badge), AI-generated UI color distribution
 
 ## Repository Structure
 
 ```
-├── run_experiment.py          # Main experiment (40 colors × 4 models × 3 trials)
-├── run_english_prompt.py      # Cross-lingual prompt comparison
-├── run_ui_component.py        # UI component context experiment
-├── images/                    # Stimulus images (solid colors)
-│   └── ui_components/         # Button, card, badge images
+├── README.md
+├── hero.png                   # Overview figure
+├── run_experiment.py          # Main experiment (480 observations)
+├── run_english_prompt.py      # Cross-lingual prompt comparison (144 obs)
+├── run_ui_component.py        # UI component experiment (108 obs)
+├── images/                    # Solid-color stimulus images
+│   └── ui_components/         # Button, card, badge test images
 ├── results/                   # Raw JSON results
 │   ├── gpt-4o.json
 │   ├── claude-3.5-sonnet.json
@@ -47,13 +55,14 @@ We tested 40 colors × 4 models × 3 trials = **480 observations**, measured by 
 │   ├── ui_component_results.json
 │   ├── statistics.json
 │   └── color_distribution_analysis.json
-└── paper/
-    ├── main.tex               # LaTeX source
-    ├── main.pdf               # Compiled paper
-    └── figures/               # Generated figures
+├── paper/
+│   ├── main.tex               # LaTeX source
+│   ├── main.pdf               # Compiled paper (9 pages)
+│   └── figures/               # Paper figures
+└── LICENSE                    # MIT
 ```
 
-## Reproducing the Experiments
+## Reproducing
 
 ### Requirements
 
@@ -61,47 +70,43 @@ We tested 40 colors × 4 models × 3 trials = **480 observations**, measured by 
 pip install Pillow requests
 ```
 
-### Running
-
-Set your API keys as environment variables (or create a `.env` file):
+### Run Experiments
 
 ```bash
+# Set API keys
 export OPENAI_API_KEY="your-key"
 export ANTHROPIC_API_KEY="your-key"
-```
 
-```bash
-# Main experiment
+# Main experiment (40 colors × 4 models × 3 trials)
 python run_experiment.py
 
 # English vs Japanese prompt comparison
 python run_english_prompt.py
 
-# UI component experiment
+# UI component context experiment
 python run_ui_component.py
 ```
 
-### Compiling the Paper
+### Compile Paper
 
 ```bash
 cd paper
-pdflatex main.tex
-pdflatex main.tex  # Run twice for references
+pdflatex main.tex && pdflatex main.tex
 ```
 
 ## Citation
 
-If you use this work, please cite:
-
 ```bibtex
 @article{imoto2026aiblue,
-  title={AI Blue: Systematic Color Recognition Bias in Vision-Language Models and Its Implications for AI-Generated UI Design},
-  author={Imoto, Ken},
-  year={2026},
-  note={Preprint}
+  title   = {AI Blue: Systematic Color Recognition Bias in Vision-Language
+             Models and Its Implications for AI-Generated UI Design},
+  author  = {Imoto, Ken},
+  year    = {2026},
+  url     = {https://github.com/kenimo49/ai-blue-color-bias},
+  note    = {Preprint}
 }
 ```
 
 ## License
 
-MIT License
+MIT — use freely, cite if you publish.
