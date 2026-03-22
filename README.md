@@ -1,5 +1,7 @@
 # AI Blue: Color Recognition Bias in Vision-Language Models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19159702.svg)](https://doi.org/10.5281/zenodo.19159702)
+
 ![AI Blue Overview](hero.png)
 
 **VLMs can't see color accurately — and it's making every AI-generated UI look the same.**
@@ -103,7 +105,9 @@ pdflatex main.tex && pdflatex main.tex
   author  = {Imoto, Ken},
   year    = {2026},
   url     = {https://github.com/kenimo49/ai-blue-color-bias},
-  note    = {Preprint}
+  doi     = {10.5281/zenodo.19159702},
+  url     = {https://zenodo.org/records/19159702},
+  note    = {Preprint, Zenodo}
 }
 ```
 
