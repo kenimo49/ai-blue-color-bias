@@ -1,0 +1,2135 @@
+[
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF0000",
+      "hue": 0,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h0_high",
+      "label": "Hue 0 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF0000",
+      "hue": 0,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h0_high",
+      "label": "Hue 0 high sat"
+    },
+    "trial": 2,
+    "response_raw": "The image you provided is filled with a solid red color. The closest HEX color code to this red color is #FF0000.",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF0000",
+      "hue": 0,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h0_high",
+      "label": "Hue 0 high sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image is a solid, vibrant red. The hex color code for this shade of red is #FF0000.",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC3232",
+      "hue": 0,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h0_mid",
+      "label": "Hue 0 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "The color in the image is #FF0000, which is a solid red color.",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 36.8555393192464,
+    "hue_shift": 0.0,
+    "delta_e_2000": 11.53725206292648
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC3232",
+      "hue": 0,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h0_mid",
+      "label": "Hue 0 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is a bright red, commonly referred to as \"red\". However, without the ability to directly interact with images, I cannot determine the exact hex code of the color in this image. Hex codes typically represent the color in",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC3232",
+      "hue": 0,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h0_mid",
+      "label": "Hue 0 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "The image is too small and blurry to determine the exact HEX color code.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77A7A",
+      "hue": 0,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h0_low",
+      "label": "Hue 0 low sat"
+    },
+    "trial": 1,
+    "response_raw": "The color in the image is #FFC66F.",
+    "response_hex": "#FFC66F",
+    "error": null,
+    "delta_e": 50.26825508016191,
+    "hue_shift": 36.25000000000001,
+    "delta_e_2000": 33.26576056017402
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77A7A",
+      "hue": 0,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h0_low",
+      "label": "Hue 0 low sat"
+    },
+    "trial": 2,
+    "response_raw": "The exact HEX color code for the color shown in the image is #FF7C99.",
+    "response_hex": "#FF7C99",
+    "error": null,
+    "delta_e": 30.625939011785896,
+    "hue_shift": -13.282442748091569,
+    "delta_e_2000": 14.37391047335716
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77A7A",
+      "hue": 0,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h0_low",
+      "label": "Hue 0 low sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image is a shade of magenta, commonly referred to as \"hot pink.\" However, without a specific color value or RGB coordinates, it is difficult to accurately determine the exact HEX color code for this particular shade of pink",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF7F00",
+      "hue": 30,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h30_high",
+      "label": "Hue 30 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 39.78327319416212,
+    "hue_shift": -30.0,
+    "delta_e_2000": 20.85126850099826
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF7F00",
+      "hue": 30,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h30_high",
+      "label": "Hue 30 high sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #FFC000.",
+    "response_hex": "#FFC000",
+    "error": null,
+    "delta_e": 37.590737607133505,
+    "hue_shift": 15.17647058823529,
+    "delta_e_2000": 22.567106630031837
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF7F00",
+      "hue": 30,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h30_high",
+      "label": "Hue 30 high sat"
+    },
+    "trial": 3,
+    "response_raw": "#FFFF00",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 74.48887727606869,
+    "hue_shift": 30.0,
+    "delta_e_2000": 42.68471881161772
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC7F32",
+      "hue": 30,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h30_mid",
+      "label": "Hue 30 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#FFD700",
+    "response_hex": "#FFD700",
+    "error": null,
+    "delta_e": 50.92341769446528,
+    "hue_shift": 20.588235294117645,
+    "delta_e_2000": 28.572258316870023
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC7F32",
+      "hue": 30,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h30_mid",
+      "label": "Hue 30 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#FFC07C",
+    "response_hex": "#FFC07C",
+    "error": null,
+    "delta_e": 25.36562955799408,
+    "hue_shift": 1.145038167938928,
+    "delta_e_2000": 17.427990974963826
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC7F32",
+      "hue": 30,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h30_mid",
+      "label": "Hue 30 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image is a shade of orange. However, without the exact RGB or CMYK values, it is not possible to determine the exact HEX color code. The HEX color code is typically derived from the RGB values",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B7997A",
+      "hue": 30,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h30_low",
+      "label": "Hue 30 low sat"
+    },
+    "trial": 1,
+    "response_raw": "#FFC0C0",
+    "response_hex": "#FFC0C0",
+    "error": null,
+    "delta_e": 26.849757129912906,
+    "hue_shift": -30.0,
+    "delta_e_2000": 21.898520272579955
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B7997A",
+      "hue": 30,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h30_low",
+      "label": "Hue 30 low sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #C7C7C7.",
+    "response_hex": "#C7C7C7",
+    "error": null,
+    "delta_e": 26.264975157072136,
+    "hue_shift": -30.0,
+    "delta_e_2000": 18.786458050476316
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B7997A",
+      "hue": 30,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h30_low",
+      "label": "Hue 30 low sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image appears to be a light beige or pale yellow color. However, since the image is filled with a single solid color, the HEX color code would be the same as the color you see:\n\n#FFFFFF",
+    "response_hex": "#FFFFFF",
+    "error": null,
+    "delta_e": 40.938551283895045,
+    "hue_shift": -30.0,
+    "delta_e_2000": 27.85794303973852
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FEFF00",
+      "hue": 60,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h60_high",
+      "label": "Hue 60 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#FFFF0",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FEFF00",
+      "hue": 60,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h60_high",
+      "label": "Hue 60 high sat"
+    },
+    "trial": 2,
+    "response_raw": "#FFFF00",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 0.4269052550322765,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.20400173232372396
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FEFF00",
+      "hue": 60,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h60_high",
+      "label": "Hue 60 high sat"
+    },
+    "trial": 3,
+    "response_raw": "The hex color code for the solid color in this image is #FFFF00.",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 0.4269052550322765,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.20400173232372396
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CBCC32",
+      "hue": 60,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h60_mid",
+      "label": "Hue 60 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#FFFF0",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CBCC32",
+      "hue": 60,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h60_mid",
+      "label": "Hue 60 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#FFFFF0",
+    "response_hex": "#FFFFF0",
+    "error": null,
+    "delta_e": 68.31820204150668,
+    "hue_shift": 0.0,
+    "delta_e_2000": 26.44547891958328
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CBCC32",
+      "hue": 60,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h60_mid",
+      "label": "Hue 60 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#FFFFFF",
+    "response_hex": "#FFFFFF",
+    "error": null,
+    "delta_e": 75.67868691297795,
+    "hue_shift": -60.0,
+    "delta_e_2000": 30.421931135958665
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B7B77A",
+      "hue": 60,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h60_low",
+      "label": "Hue 60 low sat"
+    },
+    "trial": 1,
+    "response_raw": "#FFFE9",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B7B77A",
+      "hue": 60,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h60_low",
+      "label": "Hue 60 low sat"
+    },
+    "trial": 2,
+    "response_raw": "#FFFF0",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B7B77A",
+      "hue": 60,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h60_low",
+      "label": "Hue 60 low sat"
+    },
+    "trial": 3,
+    "response_raw": "#FFEDC",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7FFF00",
+      "hue": 90,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h90_high",
+      "label": "Hue 90 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 18.426752939684075,
+    "hue_shift": 30.0,
+    "delta_e_2000": 5.145022869571107
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7FFF00",
+      "hue": 90,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h90_high",
+      "label": "Hue 90 high sat"
+    },
+    "trial": 2,
+    "response_raw": "#FFFF00",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 47.87336765046249,
+    "hue_shift": -30.0,
+    "delta_e_2000": 18.56540149186405
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7FFF00",
+      "hue": 90,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h90_high",
+      "label": "Hue 90 high sat"
+    },
+    "trial": 3,
+    "response_raw": "The exact HEX color code for the color in the image is #F7DC6.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7FCC32",
+      "hue": 90,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h90_mid",
+      "label": "Hue 90 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#FFF800",
+    "response_hex": "#FFF800",
+    "error": null,
+    "delta_e": 45.843259768424204,
+    "hue_shift": -31.647058823529406,
+    "delta_e_2000": 21.82780107787508
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7FCC32",
+      "hue": 90,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h90_mid",
+      "label": "Hue 90 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#FFFF0",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7FCC32",
+      "hue": 90,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h90_mid",
+      "label": "Hue 90 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "The HEX color code for the yellow background in the image is #FFFF00.",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 45.53252442957479,
+    "hue_shift": -30.0,
+    "delta_e_2000": 21.61216732336715
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#99B77A",
+      "hue": 90,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h90_low",
+      "label": "Hue 90 low sat"
+    },
+    "trial": 1,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 87.12345072435059,
+    "hue_shift": 30.0,
+    "delta_e_2000": 22.640738476979493
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#99B77A",
+      "hue": 90,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h90_low",
+      "label": "Hue 90 low sat"
+    },
+    "trial": 2,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 87.12345072435059,
+    "hue_shift": 30.0,
+    "delta_e_2000": 22.640738476979493
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#99B77A",
+      "hue": 90,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h90_low",
+      "label": "Hue 90 low sat"
+    },
+    "trial": 3,
+    "response_raw": "#7FC00",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FF00",
+      "hue": 120,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h120_high",
+      "label": "Hue 120 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FF00",
+      "hue": 120,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h120_high",
+      "label": "Hue 120 high sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #00FF00, which is a shade of green.",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FF00",
+      "hue": 120,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h120_high",
+      "label": "Hue 120 high sat"
+    },
+    "trial": 3,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CC32",
+      "hue": 120,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h120_mid",
+      "label": "Hue 120 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "The color in the image is #00FF00.",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 33.16647227498296,
+    "hue_shift": 0.0,
+    "delta_e_2000": 11.873241634755079
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CC32",
+      "hue": 120,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h120_mid",
+      "label": "Hue 120 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is a bright green shade, and its HEX color code is #27C87.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CC32",
+      "hue": 120,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h120_mid",
+      "label": "Hue 120 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "The HEX color code for the green color in this image is #00FF00.",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 33.16647227498296,
+    "hue_shift": 0.0,
+    "delta_e_2000": 11.873241634755079
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB77A",
+      "hue": 120,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h120_low",
+      "label": "Hue 120 low sat"
+    },
+    "trial": 1,
+    "response_raw": "The exact HEX color code for the color in this image is #009900.",
+    "response_hex": "#009900",
+    "error": null,
+    "delta_e": 43.99678835984188,
+    "hue_shift": 0.0,
+    "delta_e_2000": 16.599101896720768
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB77A",
+      "hue": 120,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h120_low",
+      "label": "Hue 120 low sat"
+    },
+    "trial": 2,
+    "response_raw": "The image is a solid green color, and its hex code is #00FF00.",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 81.67814394540599,
+    "hue_shift": 0.0,
+    "delta_e_2000": 21.814930569313102
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB77A",
+      "hue": 120,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h120_low",
+      "label": "Hue 120 low sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image is a solid green, but without the exact shade of green, I cannot provide a specific HEX color code.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FF7F",
+      "hue": 150,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h150_high",
+      "label": "Hue 150 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 37.33109853762973,
+    "hue_shift": -30.0,
+    "delta_e_2000": 8.827062664698406
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FF7F",
+      "hue": 150,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h150_high",
+      "label": "Hue 150 high sat"
+    },
+    "trial": 2,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 37.33109853762973,
+    "hue_shift": -30.0,
+    "delta_e_2000": 8.827062664698406
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FF7F",
+      "hue": 150,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h150_high",
+      "label": "Hue 150 high sat"
+    },
+    "trial": 3,
+    "response_raw": "The exact HEX color code for the color in the image is #00FF00.",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 37.33109853762973,
+    "hue_shift": -30.0,
+    "delta_e_2000": 8.827062664698406
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CC7F",
+      "hue": 150,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h150_mid",
+      "label": "Hue 150 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 64.77829912696112,
+    "hue_shift": -30.0,
+    "delta_e_2000": 17.718648969119617
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CC7F",
+      "hue": 150,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h150_mid",
+      "label": "Hue 150 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#0072C6",
+    "response_hex": "#0072C6",
+    "error": null,
+    "delta_e": 103.27488047949755,
+    "hue_shift": 55.45454545454541,
+    "delta_e_2000": 51.9673474614954
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CC7F",
+      "hue": 150,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h150_mid",
+      "label": "Hue 150 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "The hex color code for the color in this image is #008000.",
+    "response_hex": "#008000",
+    "error": null,
+    "delta_e": 35.4350299701349,
+    "hue_shift": -30.0,
+    "delta_e_2000": 25.46988656955907
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB799",
+      "hue": 150,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h150_low",
+      "label": "Hue 150 low sat"
+    },
+    "trial": 1,
+    "response_raw": "The color in the image is a light, aqua green. It is not a solid, single color but a gradient that goes from a light, greenish-blue at the top to a bright, greenish-yellow at the bottom.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB799",
+      "hue": 150,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h150_low",
+      "label": "Hue 150 low sat"
+    },
+    "trial": 2,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 97.01425993071429,
+    "hue_shift": -30.0,
+    "delta_e_2000": 26.66762495995047
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB799",
+      "hue": 150,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h150_low",
+      "label": "Hue 150 low sat"
+    },
+    "trial": 3,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 97.01425993071429,
+    "hue_shift": -30.0,
+    "delta_e_2000": 26.66762495995047
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FEFF",
+      "hue": 180,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h180_high",
+      "label": "Hue 180 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#00BFFF",
+    "response_hex": "#00BFFF",
+    "error": null,
+    "delta_e": 44.90778152722241,
+    "hue_shift": 15.05882352941174,
+    "delta_e_2000": 23.533559827504966
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FEFF",
+      "hue": 180,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h180_high",
+      "label": "Hue 180 high sat"
+    },
+    "trial": 2,
+    "response_raw": "#007BFF",
+    "response_hex": "#007BFF",
+    "error": null,
+    "delta_e": 98.33332498302359,
+    "hue_shift": 31.058823529411768,
+    "delta_e_2000": 45.03151843505707
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#00FEFF",
+      "hue": 180,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h180_high",
+      "label": "Hue 180 high sat"
+    },
+    "trial": 3,
+    "response_raw": "The image you've provided is a solid blue color. The exact HEX color code for this shade of blue is #0067B8.",
+    "response_hex": "#0067B8",
+    "error": null,
+    "delta_e": 80.32799161468475,
+    "hue_shift": 26.413043478260846,
+    "delta_e_2000": 48.566916569231026
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CBCC",
+      "hue": 180,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h180_mid",
+      "label": "Hue 180 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#0078D7",
+    "response_hex": "#0078D7",
+    "error": null,
+    "delta_e": 68.40995604861122,
+    "hue_shift": 26.51162790697674,
+    "delta_e_2000": 35.66927746320717
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CBCC",
+      "hue": 180,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h180_mid",
+      "label": "Hue 180 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#008000",
+    "response_hex": "#008000",
+    "error": null,
+    "delta_e": 69.34417858432279,
+    "hue_shift": -60.0,
+    "delta_e_2000": 38.246015574339985
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#32CBCC",
+      "hue": 180,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h180_mid",
+      "label": "Hue 180 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#008000",
+    "response_hex": "#008000",
+    "error": null,
+    "delta_e": 69.34417858432279,
+    "hue_shift": -60.0,
+    "delta_e_2000": 38.246015574339985
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB7B7",
+      "hue": 180,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h180_low",
+      "label": "Hue 180 low sat"
+    },
+    "trial": 1,
+    "response_raw": "#0074D6",
+    "response_hex": "#0074D6",
+    "error": null,
+    "delta_e": 63.33186723051832,
+    "hue_shift": 27.47663551401868,
+    "delta_e_2000": 32.31717297192039
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB7B7",
+      "hue": 180,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h180_low",
+      "label": "Hue 180 low sat"
+    },
+    "trial": 2,
+    "response_raw": "#0000FF",
+    "response_hex": "#0000FF",
+    "error": null,
+    "delta_e": 146.706535580659,
+    "hue_shift": 60.0,
+    "delta_e_2000": 49.777280298670085
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7AB7B7",
+      "hue": 180,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h180_low",
+      "label": "Hue 180 low sat"
+    },
+    "trial": 3,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 73.38960572152419,
+    "hue_shift": -180.0,
+    "delta_e_2000": 60.79029189870797
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#007FFF",
+      "hue": 210,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h210_high",
+      "label": "Hue 210 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#007BFF",
+    "response_hex": "#007BFF",
+    "error": null,
+    "delta_e": 3.240347836757168,
+    "hue_shift": 1.058823529411768,
+    "delta_e_2000": 1.4443528945302595
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#007FFF",
+      "hue": 210,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h210_high",
+      "label": "Hue 210 high sat"
+    },
+    "trial": 2,
+    "response_raw": "#0074C9",
+    "response_hex": "#0074C9",
+    "error": null,
+    "delta_e": 25.240918680115584,
+    "hue_shift": -4.626865671641781,
+    "delta_e_2000": 7.615178572769811
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#007FFF",
+      "hue": 210,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h210_high",
+      "label": "Hue 210 high sat"
+    },
+    "trial": 3,
+    "response_raw": "#007BFF",
+    "response_hex": "#007BFF",
+    "error": null,
+    "delta_e": 3.240347836757168,
+    "hue_shift": 1.058823529411768,
+    "delta_e_2000": 1.4443528945302595
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#327FCC",
+      "hue": 210,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h210_mid",
+      "label": "Hue 210 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#0079C6",
+    "response_hex": "#0079C6",
+    "error": null,
+    "delta_e": 3.770278204182192,
+    "hue_shift": -6.666666666666629,
+    "delta_e_2000": 3.3950987059728774
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#327FCC",
+      "hue": 210,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h210_mid",
+      "label": "Hue 210 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#007BFF",
+    "response_hex": "#007BFF",
+    "error": null,
+    "delta_e": 32.634723708318695,
+    "hue_shift": 1.058823529411768,
+    "delta_e_2000": 5.293894732739841
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#327FCC",
+      "hue": 210,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h210_mid",
+      "label": "Hue 210 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#0000FF",
+    "response_hex": "#0000FF",
+    "error": null,
+    "delta_e": 99.79560230926438,
+    "hue_shift": 30.0,
+    "delta_e_2000": 28.662044323511378
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7A98B7",
+      "hue": 210,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h210_low",
+      "label": "Hue 210 low sat"
+    },
+    "trial": 1,
+    "response_raw": "#87CEEB",
+    "response_hex": "#87CEEB",
+    "error": null,
+    "delta_e": 21.314854698665513,
+    "hue_shift": -12.599999999999994,
+    "delta_e_2000": 16.43757522297159
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7A98B7",
+      "hue": 210,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h210_low",
+      "label": "Hue 210 low sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #9E9E9E.",
+    "response_hex": "#9E9E9E",
+    "error": null,
+    "delta_e": 19.993801997634687,
+    "hue_shift": 150.0,
+    "delta_e_2000": 14.06678006463002
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7A98B7",
+      "hue": 210,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h210_low",
+      "label": "Hue 210 low sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image appears to be a shade of light blue, but without a specific shade reference or the ability to determine the exact shade, providing an exact HEX color code is not possible.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#0000FF",
+      "hue": 240,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h240_high",
+      "label": "Hue 240 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#007BFF",
+    "response_hex": "#007BFF",
+    "error": null,
+    "delta_e": 70.23360282590046,
+    "hue_shift": -28.941176470588232,
+    "delta_e_2000": 26.74486410708554
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#0000FF",
+      "hue": 240,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h240_high",
+      "label": "Hue 240 high sat"
+    },
+    "trial": 2,
+    "response_raw": "#0076C3",
+    "response_hex": "#0076C3",
+    "error": null,
+    "delta_e": 99.46734412964145,
+    "hue_shift": -36.307692307692264,
+    "delta_e_2000": 27.284380015211344
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#0000FF",
+      "hue": 240,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h240_high",
+      "label": "Hue 240 high sat"
+    },
+    "trial": 3,
+    "response_raw": "#0000FF",
+    "response_hex": "#0000FF",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#3232CC",
+      "hue": 240,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h240_mid",
+      "label": "Hue 240 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 98.83546001519441,
+    "hue_shift": 120.0,
+    "delta_e_2000": 37.09342109667518
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#3232CC",
+      "hue": 240,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h240_mid",
+      "label": "Hue 240 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#0074D6",
+    "response_hex": "#0074D6",
+    "error": null,
+    "delta_e": 48.2163650518112,
+    "hue_shift": -32.52336448598132,
+    "delta_e_2000": 22.203672685461985
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#3232CC",
+      "hue": 240,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h240_mid",
+      "label": "Hue 240 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 98.83546001519441,
+    "hue_shift": 120.0,
+    "delta_e_2000": 37.09342109667518
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7A7AB7",
+      "hue": 240,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h240_low",
+      "label": "Hue 240 low sat"
+    },
+    "trial": 1,
+    "response_raw": "The exact HEX color code for the image is #87CEEB.",
+    "response_hex": "#87CEEB",
+    "error": null,
+    "delta_e": 40.53633477408411,
+    "hue_shift": -42.599999999999994,
+    "delta_e_2000": 28.64012103111295
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7A7AB7",
+      "hue": 240,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h240_low",
+      "label": "Hue 240 low sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #444444.",
+    "response_hex": "#444444",
+    "error": null,
+    "delta_e": 43.00132459958545,
+    "hue_shift": 120.0,
+    "delta_e_2000": 30.009300288654
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7A7AB7",
+      "hue": 240,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h240_low",
+      "label": "Hue 240 low sat"
+    },
+    "trial": 3,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 64.04555688913722,
+    "hue_shift": 120.0,
+    "delta_e_2000": 44.74009749651451
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7F00FF",
+      "hue": 270,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h270_high",
+      "label": "Hue 270 high sat"
+    },
+    "trial": 1,
+    "response_raw": "#007FF",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7F00FF",
+      "hue": 270,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h270_high",
+      "label": "Hue 270 high sat"
+    },
+    "trial": 2,
+    "response_raw": "The image is a uniform solid color. It is not possible to determine the exact hex color code for a solid color without additional context or an accurate representation of the color. However, I can tell you that the color you've shown is a shade",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7F00FF",
+      "hue": 270,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h270_high",
+      "label": "Hue 270 high sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image is a deep blue. The closest HEX color code to this shade of blue would be #0047B0.",
+    "response_hex": "#0047B0",
+    "error": null,
+    "delta_e": 67.50162784369832,
+    "hue_shift": -54.20454545454544,
+    "delta_e_2000": 19.093633755482916
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7F32CC",
+      "hue": 270,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h270_mid",
+      "label": "Hue 270 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#448877",
+    "response_hex": "#448877",
+    "error": null,
+    "delta_e": 111.05597972071354,
+    "hue_shift": -105.0,
+    "delta_e_2000": 41.15130424625076
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7F32CC",
+      "hue": 270,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h270_mid",
+      "label": "Hue 270 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#666666",
+    "response_hex": "#666666",
+    "error": null,
+    "delta_e": 89.66454478348123,
+    "hue_shift": 90.0,
+    "delta_e_2000": 29.877457821176723
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#7F32CC",
+      "hue": 270,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h270_mid",
+      "label": "Hue 270 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#7C7C7C",
+    "response_hex": "#7C7C7C",
+    "error": null,
+    "delta_e": 90.42526543109173,
+    "hue_shift": 90.0,
+    "delta_e_2000": 31.94244957491769
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#987AB7",
+      "hue": 270,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h270_low",
+      "label": "Hue 270 low sat"
+    },
+    "trial": 1,
+    "response_raw": "#0000FF",
+    "response_hex": "#0000FF",
+    "error": null,
+    "delta_e": 100.25592964868243,
+    "hue_shift": -30.0,
+    "delta_e_2000": 30.464232642342736
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#987AB7",
+      "hue": 270,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h270_low",
+      "label": "Hue 270 low sat"
+    },
+    "trial": 2,
+    "response_raw": "The image you've provided is a solid color, but due to the limitations of the image format and color depth, it's impossible to determine the exact HEX color code of the color without more information or a more detailed image. If you",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#987AB7",
+      "hue": 270,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h270_low",
+      "label": "Hue 270 low sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image is a shade of purple. However, as an AI, I cannot determine colors based on the description provided. To find the exact HEX color code, I would need an actual RGB value, which is a combination of",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF00FE",
+      "hue": 300,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h300_high",
+      "label": "Hue 300 high sat"
+    },
+    "trial": 1,
+    "response_raw": "The color in the image is magenta. However, as a visual AI, I'm unable to extract color information from images. If you're looking for the hex code of a magenta color, it is typically represented as #FF0",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF00FE",
+      "hue": 300,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h300_high",
+      "label": "Hue 300 high sat"
+    },
+    "trial": 2,
+    "response_raw": "The image you've provided is a solid color. The exact HEX color code for this color is #FF0000.",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 129.0216762400814,
+    "hue_shift": 60.0,
+    "delta_e_2000": 42.50863064664136
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF00FE",
+      "hue": 300,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h300_high",
+      "label": "Hue 300 high sat"
+    },
+    "trial": 3,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 129.0216762400814,
+    "hue_shift": 60.0,
+    "delta_e_2000": 42.50863064664136
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC32CB",
+      "hue": 300,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h300_mid",
+      "label": "Hue 300 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "The exact HEX color code for the color in the image is #F5F5F5.",
+    "response_hex": "#F5F5F5",
+    "error": null,
+    "delta_e": 99.15401647399752,
+    "hue_shift": 60.0,
+    "delta_e_2000": 44.72095228391154
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC32CB",
+      "hue": 300,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h300_mid",
+      "label": "Hue 300 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#800000",
+    "response_hex": "#800000",
+    "error": null,
+    "delta_e": 92.40376074077136,
+    "hue_shift": 60.0,
+    "delta_e_2000": 41.80308680551738
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC32CB",
+      "hue": 300,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h300_mid",
+      "label": "Hue 300 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 113.90082712159042,
+    "hue_shift": 60.0,
+    "delta_e_2000": 40.28461394375993
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77AB7",
+      "hue": 300,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h300_low",
+      "label": "Hue 300 low sat"
+    },
+    "trial": 1,
+    "response_raw": "#C00000",
+    "response_hex": "#C00000",
+    "error": null,
+    "delta_e": 85.09204685270032,
+    "hue_shift": 60.0,
+    "delta_e_2000": 39.22846999170839
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77AB7",
+      "hue": 300,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h300_low",
+      "label": "Hue 300 low sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #FFA07A.",
+    "response_hex": "#FFA07A",
+    "error": null,
+    "delta_e": 59.17161511701533,
+    "hue_shift": 77.14285714285711,
+    "delta_e_2000": 34.15450557815304
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77AB7",
+      "hue": 300,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h300_low",
+      "label": "Hue 300 low sat"
+    },
+    "trial": 3,
+    "response_raw": "#7D637D",
+    "response_hex": "#7D637D",
+    "error": null,
+    "delta_e": 26.073281600037575,
+    "hue_shift": 0.0,
+    "delta_e_2000": 16.82521963459357
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF007F",
+      "hue": 330,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h330_high",
+      "label": "Hue 330 high sat"
+    },
+    "trial": 1,
+    "response_raw": "The color in the image is #FF0000.",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 62.73604601130666,
+    "hue_shift": 30.0,
+    "delta_e_2000": 25.97774469888232
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF007F",
+      "hue": 330,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h330_high",
+      "label": "Hue 330 high sat"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #FF0000.",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 62.73604601130666,
+    "hue_shift": 30.0,
+    "delta_e_2000": 25.97774469888232
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FF007F",
+      "hue": 330,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h330_high",
+      "label": "Hue 330 high sat"
+    },
+    "trial": 3,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 62.73604601130666,
+    "hue_shift": 30.0,
+    "delta_e_2000": 25.97774469888232
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC327F",
+      "hue": 330,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h330_mid",
+      "label": "Hue 330 mid sat"
+    },
+    "trial": 1,
+    "response_raw": "The color in the image is #FF0000.",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 75.7616651582845,
+    "hue_shift": 30.0,
+    "delta_e_2000": 29.900520204638298
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC327F",
+      "hue": 330,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h330_mid",
+      "label": "Hue 330 mid sat"
+    },
+    "trial": 2,
+    "response_raw": "The exact HEX color code for the pink color in the image is #FFC0C0.",
+    "response_hex": "#FFC0C0",
+    "error": null,
+    "delta_e": 57.38607436723299,
+    "hue_shift": 30.0,
+    "delta_e_2000": 33.69628560379444
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#CC327F",
+      "hue": 330,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h330_mid",
+      "label": "Hue 330 mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 75.7616651582845,
+    "hue_shift": 30.0,
+    "delta_e_2000": 29.900520204638298
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77A99",
+      "hue": 330,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h330_low",
+      "label": "Hue 330 low sat"
+    },
+    "trial": 1,
+    "response_raw": "The image you've provided is filled with a solid pink color. To determine the exact HEX color code, I would need to know the specific shade of pink in the image. However, if we're just looking for a common pink color",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77A99",
+      "hue": 330,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h330_low",
+      "label": "Hue 330 low sat"
+    },
+    "trial": 2,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 90.50176874764391,
+    "hue_shift": 30.0,
+    "delta_e_2000": 30.80571365130213
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#B77A99",
+      "hue": 330,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h330_low",
+      "label": "Hue 330 low sat"
+    },
+    "trial": 3,
+    "response_raw": "The color in the image is a shade of pink, but without more context or a specific reference point, it's not possible to provide a precise HEX color code as the color can appear differently on different devices and under different lighting conditions.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#000000",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.0,
+      "category": "black",
+      "label": "black"
+    },
+    "trial": 1,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#000000",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.0,
+      "category": "black",
+      "label": "black"
+    },
+    "trial": 2,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#000000",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.0,
+      "category": "black",
+      "label": "black"
+    },
+    "trial": 3,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#555555",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.3333333333333333,
+      "category": "dark_gray",
+      "label": "dark_gray"
+    },
+    "trial": 1,
+    "response_raw": "The image you've provided is completely grey, so it does not have a distinct HEX color code as it is a shade of grey which is not a color but a hue and saturation value. If you need a color for a grey",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#555555",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.3333333333333333,
+      "category": "dark_gray",
+      "label": "dark_gray"
+    },
+    "trial": 2,
+    "response_raw": "The image you've provided is completely gray, and it does not contain any solid color that can be converted to a HEX code. It's a grayscale image without any distinct color that can be represented in HEX format.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#555555",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.3333333333333333,
+      "category": "dark_gray",
+      "label": "dark_gray"
+    },
+    "trial": 3,
+    "response_raw": "The image you've provided is a solid grey color. However, without an actual image to reference, I cannot provide an exact HEX code as it would require visually identifying the color and then using the #XXXXXX format.",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#AAAAAA",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.6666666666666666,
+      "category": "light_gray",
+      "label": "light_gray"
+    },
+    "trial": 1,
+    "response_raw": "The image you provided appears to be a uniform gray color. However, without access to the image's content, I cannot provide an exact hex color code. If you can provide the actual image or more context, I'd be happy to help",
+    "response_hex": null,
+    "error": "parse",
+    "delta_e": null,
+    "hue_shift": null
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#AAAAAA",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.6666666666666666,
+      "category": "light_gray",
+      "label": "light_gray"
+    },
+    "trial": 2,
+    "response_raw": "The color code in the image is #9C9C9C.",
+    "response_hex": "#9C9C9C",
+    "error": null,
+    "delta_e": 5.251243662431938,
+    "hue_shift": null,
+    "delta_e_2000": 4.213227280929475
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#AAAAAA",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.6666666666666666,
+      "category": "light_gray",
+      "label": "light_gray"
+    },
+    "trial": 3,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 69.61016868371036,
+    "hue_shift": null,
+    "delta_e_2000": 57.12070811012637
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FFFFFF",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 1.0,
+      "category": "white",
+      "label": "white"
+    },
+    "trial": 1,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 100.00000386666815,
+    "hue_shift": null,
+    "delta_e_2000": 100.00000386666865
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FFFFFF",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 1.0,
+      "category": "white",
+      "label": "white"
+    },
+    "trial": 2,
+    "response_raw": "The color in the image is #F8F8F8.",
+    "response_hex": "#F8F8F8",
+    "error": null,
+    "delta_e": 2.4209947835306598,
+    "hue_shift": null,
+    "delta_e_2000": 1.4004005221816487
+  },
+  {
+    "model": "llava-7b",
+    "color": {
+      "hex": "#FFFFFF",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 1.0,
+      "category": "white",
+      "label": "white"
+    },
+    "trial": 3,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 100.00000386666815,
+    "hue_shift": null,
+    "delta_e_2000": 100.00000386666865
+  }
+]

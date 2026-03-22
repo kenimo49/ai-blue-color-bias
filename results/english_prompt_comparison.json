@@ -1,0 +1,1302 @@
+{
+  "gpt-4o": [
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FF1400",
+      "response_hex": "#FF1400",
+      "delta_e_2000": 0.7792613966338509
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FF1C00",
+      "response_hex": "#FF1C00",
+      "delta_e_2000": 1.2893820327217695
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FF7F00",
+      "response_hex": "#FF7F00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FF7F00",
+      "response_hex": "#FF7F00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF7F00",
+      "response_hex": "#FF7F00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FF7F00",
+      "response_hex": "#FF7F00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FF8000",
+      "response_hex": "#FF8000",
+      "delta_e_2000": 0.3140767908766311
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FF7F00",
+      "response_hex": "#FF7F00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#96FF00",
+      "response_hex": "#96FF00",
+      "delta_e_2000": 2.2288157969743687
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#76FF03",
+      "response_hex": "#76FF03",
+      "delta_e_2000": 0.7739297922281624
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#8DFF00",
+      "response_hex": "#8DFF00",
+      "delta_e_2000": 1.3016067902606974
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#84FF00",
+      "response_hex": "#84FF00",
+      "delta_e_2000": 0.44547368950577343
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#94FF00",
+      "response_hex": "#94FF00",
+      "delta_e_2000": 2.016551897779941
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#6BFF00",
+      "response_hex": "#6BFF00",
+      "delta_e_2000": 1.5726805418354783
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#39FF14",
+      "response_hex": "#39FF14",
+      "delta_e_2000": 0.8904467197745071
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#3FF700",
+      "response_hex": "#3FF700",
+      "delta_e_2000": 1.946229015515946
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#33FF00",
+      "response_hex": "#33FF00",
+      "delta_e_2000": 0.812553368696807
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#39FF00",
+      "response_hex": "#39FF00",
+      "delta_e_2000": 1.0036336849161382
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#39FF14",
+      "response_hex": "#39FF14",
+      "delta_e_2000": 0.8904467197745071
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#4EFF00",
+      "response_hex": "#4EFF00",
+      "delta_e_2000": 1.8637342076887005
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#20D04B",
+      "response_hex": "#20D04B",
+      "delta_e_2000": 10.863389384552423
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#18CD7C",
+      "response_hex": "#18CD7C",
+      "delta_e_2000": 12.142731851331812
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#20E555",
+      "response_hex": "#20E555",
+      "delta_e_2000": 6.4158915743130125
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#20EE82",
+      "response_hex": "#20EE82",
+      "delta_e_2000": 4.016157637321238
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#24F575",
+      "response_hex": "#24F575",
+      "delta_e_2000": 2.1709895798097523
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#22CC5E",
+      "response_hex": "#22CC5E",
+      "delta_e_2000": 11.440084409253185
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#00E2E2",
+      "response_hex": "#00E2E2",
+      "delta_e_2000": 6.0253291594770255
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#00E9E9",
+      "response_hex": "#00E9E9",
+      "delta_e_2000": 4.464394601797628
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#17D4D2",
+      "response_hex": "#17D4D2",
+      "delta_e_2000": 9.331578355694916
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#00E5EE",
+      "response_hex": "#00E5EE",
+      "delta_e_2000": 5.903622763291509
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#00E5EE",
+      "response_hex": "#00E5EE",
+      "delta_e_2000": 5.903622763291509
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#00E5EE",
+      "response_hex": "#00E5EE",
+      "delta_e_2000": 5.903622763291509
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#149AFF",
+      "response_hex": "#149AFF",
+      "delta_e_2000": 9.389024059357746
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#248EFF",
+      "response_hex": "#248EFF",
+      "delta_e_2000": 4.986326231982828
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#158CFF",
+      "response_hex": "#158CFF",
+      "delta_e_2000": 4.47901582286602
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#228BFF",
+      "response_hex": "#228BFF",
+      "delta_e_2000": 3.9801025463734687
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#0080FF",
+      "response_hex": "#0080FF",
+      "delta_e_2000": 0.36085891857638636
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#0080FF",
+      "response_hex": "#0080FF",
+      "delta_e_2000": 0.36085891857638636
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#8000FF",
+      "response_hex": "#8000FF",
+      "delta_e_2000": 0.13933698145071463
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#8000FF",
+      "response_hex": "#8000FF",
+      "delta_e_2000": 0.13933698145071463
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#8000FF",
+      "response_hex": "#8000FF",
+      "delta_e_2000": 0.13933698145071463
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#8000FF",
+      "response_hex": "#8000FF",
+      "delta_e_2000": 0.13933698145071463
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#8000FF",
+      "response_hex": "#8000FF",
+      "delta_e_2000": 0.13933698145071463
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#8000FF",
+      "response_hex": "#8000FF",
+      "delta_e_2000": 0.13933698145071463
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#ff00ff",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#ff00ff",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#ff00ff",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#ff0080",
+      "response_hex": "#FF0080",
+      "delta_e_2000": 0.21769938646258993
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FF0099",
+      "response_hex": "#FF0099",
+      "delta_e_2000": 5.309689134185544
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF0080",
+      "response_hex": "#FF0080",
+      "delta_e_2000": 0.21769938646258993
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#ff0099",
+      "response_hex": "#FF0099",
+      "delta_e_2000": 5.309689134185544
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#ff007f",
+      "response_hex": "#FF007F",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#ff0099",
+      "response_hex": "#FF0099",
+      "delta_e_2000": 5.309689134185544
+    }
+  ],
+  "claude-sonnet-4": [
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 0,
+      "ground_truth": "#FF0000",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FF0000",
+      "response_hex": "#FF0000",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FF8C00",
+      "response_hex": "#FF8C00",
+      "delta_e_2000": 4.211386302816391
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FF8C00",
+      "response_hex": "#FF8C00",
+      "delta_e_2000": 4.211386302816391
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF8C00",
+      "response_hex": "#FF8C00",
+      "delta_e_2000": 4.211386302816391
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FF8C00",
+      "response_hex": "#FF8C00",
+      "delta_e_2000": 4.211386302816391
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FF8C00",
+      "response_hex": "#FF8C00",
+      "delta_e_2000": 4.211386302816391
+    },
+    {
+      "hue": 30,
+      "ground_truth": "#FF7F00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FF8C00",
+      "response_hex": "#FF8C00",
+      "delta_e_2000": 4.211386302816391
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 60,
+      "ground_truth": "#FEFF00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FFFF00",
+      "response_hex": "#FFFF00",
+      "delta_e_2000": 0.20400173232372396
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#7ED321",
+      "response_hex": "#7ED321",
+      "delta_e_2000": 9.776440082568229
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#7EFF00",
+      "response_hex": "#7EFF00",
+      "delta_e_2000": 0.0865419878876193
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#7FFF00",
+      "response_hex": "#7FFF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#7FFF00",
+      "response_hex": "#7FFF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#7EFF00",
+      "response_hex": "#7EFF00",
+      "delta_e_2000": 0.0865419878876193
+    },
+    {
+      "hue": 90,
+      "ground_truth": "#7FFF00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#7FFF00",
+      "response_hex": "#7FFF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#00FF00",
+      "response_hex": "#00FF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#00FF00",
+      "response_hex": "#00FF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#00FF00",
+      "response_hex": "#00FF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#00FF00",
+      "response_hex": "#00FF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#00FF00",
+      "response_hex": "#00FF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 120,
+      "ground_truth": "#00FF00",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#00FF00",
+      "response_hex": "#00FF00",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#00FF7F",
+      "response_hex": "#00FF7F",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#00FF7F",
+      "response_hex": "#00FF7F",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#00FF7F",
+      "response_hex": "#00FF7F",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#00FF7F",
+      "response_hex": "#00FF7F",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#00FF7F",
+      "response_hex": "#00FF7F",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 150,
+      "ground_truth": "#00FF7F",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#00FF7F",
+      "response_hex": "#00FF7F",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#00FFFF",
+      "response_hex": "#00FFFF",
+      "delta_e_2000": 0.3684907849566054
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#00FFFF",
+      "response_hex": "#00FFFF",
+      "delta_e_2000": 0.3684907849566054
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#00FFFF",
+      "response_hex": "#00FFFF",
+      "delta_e_2000": 0.3684907849566054
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#00FFFF",
+      "response_hex": "#00FFFF",
+      "delta_e_2000": 0.3684907849566054
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#00FFFF",
+      "response_hex": "#00FFFF",
+      "delta_e_2000": 0.3684907849566054
+    },
+    {
+      "hue": 180,
+      "ground_truth": "#00FEFF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#00FFFF",
+      "response_hex": "#00FFFF",
+      "delta_e_2000": 0.3684907849566054
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#0080FF",
+      "response_hex": "#0080FF",
+      "delta_e_2000": 0.36085891857638636
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#0080FF",
+      "response_hex": "#0080FF",
+      "delta_e_2000": 0.36085891857638636
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#007FFF",
+      "response_hex": "#007FFF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#1E90FF",
+      "response_hex": "#1E90FF",
+      "delta_e_2000": 5.7641798654387
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#1E90FF",
+      "response_hex": "#1E90FF",
+      "delta_e_2000": 5.7641798654387
+    },
+    {
+      "hue": 210,
+      "ground_truth": "#007FFF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#1E90FF",
+      "response_hex": "#1E90FF",
+      "delta_e_2000": 5.7641798654387
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 240,
+      "ground_truth": "#0000FF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#0000FF",
+      "response_hex": "#0000FF",
+      "delta_e_2000": 0.0
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#8A2BE2",
+      "response_hex": "#8A2BE2",
+      "delta_e_2000": 4.238350745103681
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#7A2FFF",
+      "response_hex": "#7A2FFF",
+      "delta_e_2000": 3.3316388907542387
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#8A2BE2",
+      "response_hex": "#8A2BE2",
+      "delta_e_2000": 4.238350745103681
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#8A2BE2",
+      "response_hex": "#8A2BE2",
+      "delta_e_2000": 4.238350745103681
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#8A2BE2",
+      "response_hex": "#8A2BE2",
+      "delta_e_2000": 4.238350745103681
+    },
+    {
+      "hue": 270,
+      "ground_truth": "#7F00FF",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#8A2BE2",
+      "response_hex": "#8A2BE2",
+      "delta_e_2000": 4.238350745103681
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#E916E9",
+      "response_hex": "#E916E9",
+      "delta_e_2000": 4.265223181474687
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 300,
+      "ground_truth": "#FF00FE",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FF00FF",
+      "response_hex": "#FF00FF",
+      "delta_e_2000": 0.12863112561667522
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "english",
+      "trial": 1,
+      "response": "#FF1493",
+      "response_hex": "#FF1493",
+      "delta_e_2000": 3.9887060962502243
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "english",
+      "trial": 2,
+      "response": "#FF1493",
+      "response_hex": "#FF1493",
+      "delta_e_2000": 3.9887060962502243
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "english",
+      "trial": 3,
+      "response": "#FF1493",
+      "response_hex": "#FF1493",
+      "delta_e_2000": 3.9887060962502243
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "japanese",
+      "trial": 1,
+      "response": "#FF1493",
+      "response_hex": "#FF1493",
+      "delta_e_2000": 3.9887060962502243
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "japanese",
+      "trial": 2,
+      "response": "#FF1493",
+      "response_hex": "#FF1493",
+      "delta_e_2000": 3.9887060962502243
+    },
+    {
+      "hue": 330,
+      "ground_truth": "#FF007F",
+      "prompt_lang": "japanese",
+      "trial": 3,
+      "response": "#FF1493",
+      "response_hex": "#FF1493",
+      "delta_e_2000": 3.9887060962502243
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ch02-industry-portfolio.png": {
+    "n_chromatic_pixels": 230,
+    "avg_saturation": 0.782,
+    "top_hues": [
+      [
+        240,
+        30.0
+      ],
+      [
+        0,
+        26.5
+      ],
+      [
+        210,
+        24.8
+      ]
+    ]
+  },
+  "ch02-industry-saas.png": {
+    "n_chromatic_pixels": 810,
+    "avg_saturation": 0.738,
+    "top_hues": [
+      [
+        240,
+        62.6
+      ],
+      [
+        210,
+        37.3
+      ],
+      [
+        0,
+        0.1
+      ]
+    ]
+  },
+  "ch02-industry-techblog.png": {
+    "n_chromatic_pixels": 143,
+    "avg_saturation": 0.128,
+    "top_hues": [
+      [
+        210,
+        99.3
+      ],
+      [
+        0,
+        0.7
+      ]
+    ]
+  },
+  "ch02-pattern-a-revolut.png": {
+    "n_chromatic_pixels": 861,
+    "avg_saturation": 0.706,
+    "top_hues": [
+      [
+        240,
+        96.3
+      ],
+      [
+        210,
+        3.7
+      ]
+    ]
+  },
+  "ch02-pattern-b-neoglow.png": {
+    "n_chromatic_pixels": 194,
+    "avg_saturation": 0.701,
+    "top_hues": [
+      [
+        240,
+        94.8
+      ],
+      [
+        210,
+        5.2
+      ]
+    ]
+  },
+  "ch04-japan-stereotype.png": {
+    "n_chromatic_pixels": 317,
+    "avg_saturation": 0.503,
+    "top_hues": [
+      [
+        330,
+        55.8
+      ],
+      [
+        210,
+        25.2
+      ],
+      [
+        0,
+        18.9
+      ]
+    ]
+  },
+  "preface-deja-vu.png": {
+    "n_chromatic_pixels": 429,
+    "avg_saturation": 0.606,
+    "top_hues": [
+      [
+        240,
+        82.8
+      ],
+      [
+        210,
+        17.2
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2162 @@
+[
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF0000",
+      "hue": 0,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h0_high",
+      "label": "Hue 0° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF0000",
+      "hue": 0,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h0_high",
+      "label": "Hue 0° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#FF0E00",
+    "response_hex": "#FF0E00",
+    "error": null,
+    "delta_e": 1.045731647300411,
+    "hue_shift": 3.294117647058825,
+    "delta_e_2000": 0.490086801137086
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF0000",
+      "hue": 0,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h0_high",
+      "label": "Hue 0° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#FF0000",
+    "response_hex": "#FF0000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC3232",
+      "hue": 0,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h0_mid",
+      "label": "Hue 0° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#CC3333",
+    "response_hex": "#CC3333",
+    "error": null,
+    "delta_e": 0.5301146163395997,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.20316369225836067
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC3232",
+      "hue": 0,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h0_mid",
+      "label": "Hue 0° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#CE2C2C",
+    "response_hex": "#CE2C2C",
+    "error": null,
+    "delta_e": 3.8385736280497453,
+    "hue_shift": 0.0,
+    "delta_e_2000": 1.1851873118173069
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC3232",
+      "hue": 0,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h0_mid",
+      "label": "Hue 0° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#CF2D2D",
+    "response_hex": "#CF2D2D",
+    "error": null,
+    "delta_e": 3.706152372268655,
+    "hue_shift": 0.0,
+    "delta_e_2000": 1.0726985209554116
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77A7A",
+      "hue": 0,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h0_low",
+      "label": "Hue 0° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#B97078",
+    "response_hex": "#B97078",
+    "error": null,
+    "delta_e": 6.647340913523966,
+    "hue_shift": -6.575342465753408,
+    "delta_e_2000": 3.991276660211999
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77A7A",
+      "hue": 0,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h0_low",
+      "label": "Hue 0° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#B77177",
+    "response_hex": "#B77177",
+    "error": null,
+    "delta_e": 5.25158606140821,
+    "hue_shift": -5.142857142857167,
+    "delta_e_2000": 3.354021560019817
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77A7A",
+      "hue": 0,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h0_low",
+      "label": "Hue 0° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#B46B6C",
+    "response_hex": "#B46B6C",
+    "error": null,
+    "delta_e": 7.168721812028489,
+    "hue_shift": -0.8219178082191547,
+    "delta_e_2000": 4.722583861905463
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF7F00",
+      "hue": 30,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h30_high",
+      "label": "Hue 30° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#FF8000",
+    "response_hex": "#FF8000",
+    "error": null,
+    "delta_e": 0.5418225374408493,
+    "hue_shift": 0.117647058823529,
+    "delta_e_2000": 0.3140767908766311
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF7F00",
+      "hue": 30,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h30_high",
+      "label": "Hue 30° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#FF7F00",
+    "response_hex": "#FF7F00",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": -0.117647058823529,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF7F00",
+      "hue": 30,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h30_high",
+      "label": "Hue 30° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#FF7F00",
+    "response_hex": "#FF7F00",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": -0.117647058823529,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC7F32",
+      "hue": 30,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h30_mid",
+      "label": "Hue 30° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#CD8032",
+    "response_hex": "#CD8032",
+    "error": null,
+    "delta_e": 0.5494728975476489,
+    "hue_shift": 0.19354838709677225,
+    "delta_e_2000": 0.37225171519429134
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC7F32",
+      "hue": 30,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h30_mid",
+      "label": "Hue 30° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#C67A2D",
+    "response_hex": "#C67A2D",
+    "error": null,
+    "delta_e": 1.9660251847864234,
+    "hue_shift": 0.19607843137254832,
+    "delta_e_2000": 1.7502389286751447
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC7F32",
+      "hue": 30,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h30_mid",
+      "label": "Hue 30° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#D07A28",
+    "response_hex": "#D07A28",
+    "error": null,
+    "delta_e": 5.492013005868643,
+    "hue_shift": -0.7142857142857117,
+    "delta_e_2000": 2.001298006705432
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B7997A",
+      "hue": 30,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h30_low",
+      "label": "Hue 30° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#B69375",
+    "response_hex": "#B69375",
+    "error": null,
+    "delta_e": 2.883930882939617,
+    "hue_shift": -2.307692307692321,
+    "delta_e_2000": 2.5529069691045
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B7997A",
+      "hue": 30,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h30_low",
+      "label": "Hue 30° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#B38E66",
+    "response_hex": "#B38E66",
+    "error": null,
+    "delta_e": 7.4080982983954815,
+    "hue_shift": 1.1688311688311792,
+    "delta_e_2000": 4.324868016238188
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B7997A",
+      "hue": 30,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h30_low",
+      "label": "Hue 30° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#B89474",
+    "response_hex": "#B89474",
+    "error": null,
+    "delta_e": 3.1525606569129114,
+    "hue_shift": -1.7647058823529278,
+    "delta_e_2000": 2.368094970451331
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FEFF00",
+      "hue": 60,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h60_high",
+      "label": "Hue 60° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#FFFF00",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 0.4269052550322765,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.20400173232372396
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FEFF00",
+      "hue": 60,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h60_high",
+      "label": "Hue 60° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#FFFF00",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 0.4269052550322765,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.20400173232372396
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FEFF00",
+      "hue": 60,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h60_high",
+      "label": "Hue 60° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#FFFF00",
+    "response_hex": "#FFFF00",
+    "error": null,
+    "delta_e": 0.4269052550322765,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.20400173232372396
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CBCC32",
+      "hue": 60,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h60_mid",
+      "label": "Hue 60° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#D3D937",
+    "response_hex": "#D3D937",
+    "error": null,
+    "delta_e": 5.622711919760494,
+    "hue_shift": 2.2222222222222285,
+    "delta_e_2000": 3.1234012877695334
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CBCC32",
+      "hue": 60,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h60_mid",
+      "label": "Hue 60° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#D3D300",
+    "response_hex": "#D3D300",
+    "error": null,
+    "delta_e": 11.460529457858444,
+    "hue_shift": 0.0,
+    "delta_e_2000": 3.056103671569441
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CBCC32",
+      "hue": 60,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h60_mid",
+      "label": "Hue 60° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#d2d529",
+    "response_hex": "#D2D529",
+    "error": null,
+    "delta_e": 6.363619619267075,
+    "hue_shift": 1.0465116279069733,
+    "delta_e_2000": 2.3941890911878714
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B7B77A",
+      "hue": 60,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h60_low",
+      "label": "Hue 60° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#BCB970",
+    "response_hex": "#BCB970",
+    "error": null,
+    "delta_e": 6.3454109114521895,
+    "hue_shift": -2.3684210526315894,
+    "delta_e_2000": 2.6454357604816403
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B7B77A",
+      "hue": 60,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h60_low",
+      "label": "Hue 60° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#BCB876",
+    "response_hex": "#BCB876",
+    "error": null,
+    "delta_e": 3.187070435912181,
+    "hue_shift": -3.4285714285714377,
+    "delta_e_2000": 1.6911780324202519
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B7B77A",
+      "hue": 60,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h60_low",
+      "label": "Hue 60° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#b8b674",
+    "response_hex": "#B8B674",
+    "error": null,
+    "delta_e": 2.806542644036789,
+    "hue_shift": -1.764705882352935,
+    "delta_e_2000": 1.265559925711912
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7FFF00",
+      "hue": 90,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h90_high",
+      "label": "Hue 90° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#94FF00",
+    "response_hex": "#94FF00",
+    "error": null,
+    "delta_e": 6.401690873834159,
+    "hue_shift": -4.823529411764724,
+    "delta_e_2000": 2.016551897779941
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7FFF00",
+      "hue": 90,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h90_high",
+      "label": "Hue 90° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#8CFF00",
+    "response_hex": "#8CFF00",
+    "error": null,
+    "delta_e": 3.8678568962182784,
+    "hue_shift": -2.941176470588232,
+    "delta_e_2000": 1.2029981144832358
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7FFF00",
+      "hue": 90,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h90_high",
+      "label": "Hue 90° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#9BFF00",
+    "response_hex": "#9BFF00",
+    "error": null,
+    "delta_e": 8.708094591835621,
+    "hue_shift": -6.47058823529413,
+    "delta_e_2000": 2.7751771127529494
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7FCC32",
+      "hue": 90,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h90_mid",
+      "label": "Hue 90° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#7ED321",
+    "response_hex": "#7ED321",
+    "error": null,
+    "delta_e": 7.8428141036897685,
+    "hue_shift": -1.3483146067415817,
+    "delta_e_2000": 2.1526311804931364
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7FCC32",
+      "hue": 90,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h90_mid",
+      "label": "Hue 90° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#82C341",
+    "response_hex": "#82C341",
+    "error": null,
+    "delta_e": 10.121066370165524,
+    "hue_shift": 0.0,
+    "delta_e_2000": 2.886101764725942
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7FCC32",
+      "hue": 90,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h90_mid",
+      "label": "Hue 90° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#8CD329",
+    "response_hex": "#8CD329",
+    "error": null,
+    "delta_e": 6.157021273853419,
+    "hue_shift": -4.941176470588246,
+    "delta_e_2000": 2.6796091350265603
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#99B77A",
+      "hue": 90,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h90_low",
+      "label": "Hue 90° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#96B377",
+    "response_hex": "#96B377",
+    "error": null,
+    "delta_e": 1.4932794811570311,
+    "hue_shift": -1.0,
+    "delta_e_2000": 1.0988452863046205
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#99B77A",
+      "hue": 90,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h90_low",
+      "label": "Hue 90° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#97B77B",
+    "response_hex": "#97B77B",
+    "error": null,
+    "delta_e": 0.9344647418981896,
+    "hue_shift": 2.0,
+    "delta_e_2000": 0.5663149295673919
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#99B77A",
+      "hue": 90,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h90_low",
+      "label": "Hue 90° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#97B67C",
+    "response_hex": "#97B67C",
+    "error": null,
+    "delta_e": 1.6423362519452738,
+    "hue_shift": 2.068965517241381,
+    "delta_e_2000": 0.8212431996650406
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FF00",
+      "hue": 120,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h120_high",
+      "label": "Hue 120° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#39FF14",
+    "response_hex": "#39FF14",
+    "error": null,
+    "delta_e": 4.2835458743890875,
+    "hue_shift": -9.446808510638292,
+    "delta_e_2000": 0.8904467197745071
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FF00",
+      "hue": 120,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h120_high",
+      "label": "Hue 120° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#39FF14",
+    "response_hex": "#39FF14",
+    "error": null,
+    "delta_e": 4.2835458743890875,
+    "hue_shift": -9.446808510638292,
+    "delta_e_2000": 0.8904467197745071
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FF00",
+      "hue": 120,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h120_high",
+      "label": "Hue 120° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#00FF00",
+    "response_hex": "#00FF00",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CC32",
+      "hue": 120,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h120_mid",
+      "label": "Hue 120° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#39FF14",
+    "response_hex": "#39FF14",
+    "error": null,
+    "delta_e": 30.35195517710042,
+    "hue_shift": -9.446808510638292,
+    "delta_e_2000": 11.947539808513564
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CC32",
+      "hue": 120,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h120_mid",
+      "label": "Hue 120° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#2DFF00",
+    "response_hex": "#2DFF00",
+    "error": null,
+    "delta_e": 32.15985139078529,
+    "hue_shift": -10.588235294117652,
+    "delta_e_2000": 11.982222476148642
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CC32",
+      "hue": 120,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h120_mid",
+      "label": "Hue 120° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#3DED33",
+    "response_hex": "#3DED33",
+    "error": null,
+    "delta_e": 16.688837368890148,
+    "hue_shift": -3.225806451612897,
+    "delta_e_2000": 7.862276962212868
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB77A",
+      "hue": 120,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h120_low",
+      "label": "Hue 120° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#7FB77E",
+    "response_hex": "#7FB77E",
+    "error": null,
+    "delta_e": 2.859891969166714,
+    "hue_shift": -1.05263157894737,
+    "delta_e_2000": 1.0659904336079915
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB77A",
+      "hue": 120,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h120_low",
+      "label": "Hue 120° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#77C080",
+    "response_hex": "#77C080",
+    "error": null,
+    "delta_e": 4.900936527747914,
+    "hue_shift": 7.397260273972606,
+    "delta_e_2000": 2.6326436034247456
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB77A",
+      "hue": 120,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h120_low",
+      "label": "Hue 120° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#7FBA73",
+    "response_hex": "#7FBA73",
+    "error": null,
+    "delta_e": 5.291853941089754,
+    "hue_shift": -10.140845070422529,
+    "delta_e_2000": 2.3825867797774176
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FF7F",
+      "hue": 150,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h150_high",
+      "label": "Hue 150° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#1EF876",
+    "response_hex": "#1EF876",
+    "error": null,
+    "delta_e": 3.3185748236788832,
+    "hue_shift": -5.77981651376146,
+    "delta_e_2000": 1.6066280742843626
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FF7F",
+      "hue": 150,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h150_high",
+      "label": "Hue 150° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#17E985",
+    "response_hex": "#17E985",
+    "error": null,
+    "delta_e": 15.679698596401048,
+    "hue_shift": 1.4285714285714164,
+    "delta_e_2000": 5.4848253954440676
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FF7F",
+      "hue": 150,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h150_high",
+      "label": "Hue 150° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#22C965",
+    "response_hex": "#22C965",
+    "error": null,
+    "delta_e": 24.07315027067322,
+    "hue_shift": -5.928143712574837,
+    "delta_e_2000": 12.24418435452347
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CC7F",
+      "hue": 150,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h150_mid",
+      "label": "Hue 150° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#2ED573",
+    "response_hex": "#2ED573",
+    "error": null,
+    "delta_e": 11.399955469411836,
+    "hue_shift": -5.2095808383233475,
+    "delta_e_2000": 3.8196056791116875
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CC7F",
+      "hue": 150,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h150_mid",
+      "label": "Hue 150° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#31D88E",
+    "response_hex": "#31D88E",
+    "error": null,
+    "delta_e": 4.943555040113175,
+    "hue_shift": 3.4131736526946383,
+    "delta_e_2000": 3.1687301091193905
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CC7F",
+      "hue": 150,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h150_mid",
+      "label": "Hue 150° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#2ED573",
+    "response_hex": "#2ED573",
+    "error": null,
+    "delta_e": 11.399955469411836,
+    "hue_shift": -5.2095808383233475,
+    "delta_e_2000": 3.8196056791116875
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB799",
+      "hue": 150,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h150_low",
+      "label": "Hue 150° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#77B59C",
+    "response_hex": "#77B59C",
+    "error": null,
+    "delta_e": 2.7957797936095754,
+    "hue_shift": 5.806451612903231,
+    "delta_e_2000": 1.7213884409450069
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB799",
+      "hue": 150,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h150_low",
+      "label": "Hue 150° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#76C2A2",
+    "response_hex": "#76C2A2",
+    "error": null,
+    "delta_e": 5.639650874101609,
+    "hue_shift": 4.73684210526315,
+    "delta_e_2000": 3.2895361596705612
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB799",
+      "hue": 150,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h150_low",
+      "label": "Hue 150° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#73C2A3",
+    "response_hex": "#73C2A3",
+    "error": null,
+    "delta_e": 6.175789677933206,
+    "hue_shift": 6.455696202531641,
+    "delta_e_2000": 3.5342299699781536
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FEFF",
+      "hue": 180,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h180_high",
+      "label": "Hue 180° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#00E5EE",
+    "response_hex": "#00E5EE",
+    "error": null,
+    "delta_e": 10.230226083631845,
+    "hue_shift": 2.268907563025209,
+    "delta_e_2000": 5.903622763291509
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FEFF",
+      "hue": 180,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h180_high",
+      "label": "Hue 180° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#00EFFF",
+    "response_hex": "#00EFFF",
+    "error": null,
+    "delta_e": 10.267666634049853,
+    "hue_shift": 3.764705882352928,
+    "delta_e_2000": 5.692273430663639
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#00FEFF",
+      "hue": 180,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h180_high",
+      "label": "Hue 180° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#00ECEC",
+    "response_hex": "#00ECEC",
+    "error": null,
+    "delta_e": 6.369231309243824,
+    "hue_shift": 0.0,
+    "delta_e_2000": 3.8091191089802785
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CBCC",
+      "hue": 180,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h180_mid",
+      "label": "Hue 180° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#33CFCF",
+    "response_hex": "#33CFCF",
+    "error": null,
+    "delta_e": 1.5945062548938511,
+    "hue_shift": 0.0,
+    "delta_e_2000": 1.0450006890114187
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CBCC",
+      "hue": 180,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h180_mid",
+      "label": "Hue 180° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#36d1c4",
+    "response_hex": "#36D1C4",
+    "error": null,
+    "delta_e": 8.288695417081104,
+    "hue_shift": -5.032258064516128,
+    "delta_e_2000": 5.024510805257669
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#32CBCC",
+      "hue": 180,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h180_mid",
+      "label": "Hue 180° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#3DC9CC",
+    "response_hex": "#3DC9CC",
+    "error": null,
+    "delta_e": 2.309267103108191,
+    "hue_shift": 1.2587412587412246,
+    "delta_e_2000": 1.0948945404203079
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB7B7",
+      "hue": 180,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h180_low",
+      "label": "Hue 180° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#7FB7B5",
+    "response_hex": "#7FB7B5",
+    "error": null,
+    "delta_e": 1.7227924875926457,
+    "hue_shift": -2.142857142857139,
+    "delta_e_2000": 1.0964090257520638
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB7B7",
+      "hue": 180,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h180_low",
+      "label": "Hue 180° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#7FB7BA",
+    "response_hex": "#7FB7BA",
+    "error": null,
+    "delta_e": 2.422687977121891,
+    "hue_shift": 3.0508474576271,
+    "delta_e_2000": 1.7549587711126942
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7AB7B7",
+      "hue": 180,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h180_low",
+      "label": "Hue 180° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#7FB8BC",
+    "response_hex": "#7FB8BC",
+    "error": null,
+    "delta_e": 2.777033492891827,
+    "hue_shift": 3.9344262295082046,
+    "delta_e_2000": 2.0800702962952173
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#007FFF",
+      "hue": 210,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h210_high",
+      "label": "Hue 210° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#0080FF",
+    "response_hex": "#0080FF",
+    "error": null,
+    "delta_e": 0.809924324131045,
+    "hue_shift": -0.11764705882350768,
+    "delta_e_2000": 0.36085891857638636
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#007FFF",
+      "hue": 210,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h210_high",
+      "label": "Hue 210° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#0080FF",
+    "response_hex": "#0080FF",
+    "error": null,
+    "delta_e": 0.809924324131045,
+    "hue_shift": -0.11764705882350768,
+    "delta_e_2000": 0.36085891857638636
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#007FFF",
+      "hue": 210,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h210_high",
+      "label": "Hue 210° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#0080FF",
+    "response_hex": "#0080FF",
+    "error": null,
+    "delta_e": 0.809924324131045,
+    "hue_shift": -0.11764705882350768,
+    "delta_e_2000": 0.36085891857638636
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#327FCC",
+      "hue": 210,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h210_mid",
+      "label": "Hue 210° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#4287F5",
+    "response_hex": "#4287F5",
+    "error": null,
+    "delta_e": 19.745137960478555,
+    "hue_shift": 6.871508379888297,
+    "delta_e_2000": 6.078748410902227
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#327FCC",
+      "hue": 210,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h210_mid",
+      "label": "Hue 210° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#428BCA",
+    "response_hex": "#428BCA",
+    "error": null,
+    "delta_e": 9.98357729439529,
+    "hue_shift": -2.205882352941188,
+    "delta_e_2000": 4.342813533085913
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#327FCC",
+      "hue": 210,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h210_mid",
+      "label": "Hue 210° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#428BCA",
+    "response_hex": "#428BCA",
+    "error": null,
+    "delta_e": 9.98357729439529,
+    "hue_shift": -2.205882352941188,
+    "delta_e_2000": 4.342813533085913
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7A98B7",
+      "hue": 210,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h210_low",
+      "label": "Hue 210° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#7196B8",
+    "response_hex": "#7196B8",
+    "error": null,
+    "delta_e": 2.7588098577603524,
+    "hue_shift": -1.267605633802816,
+    "delta_e_2000": 1.901035534749999
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7A98B7",
+      "hue": 210,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h210_low",
+      "label": "Hue 210° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#718BA1",
+    "response_hex": "#718BA1",
+    "error": null,
+    "delta_e": 7.038832381644938,
+    "hue_shift": -2.4999999999999716,
+    "delta_e_2000": 5.312962675571275
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7A98B7",
+      "hue": 210,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h210_low",
+      "label": "Hue 210° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#799EB0",
+    "response_hex": "#799EB0",
+    "error": null,
+    "delta_e": 8.22277400748633,
+    "hue_shift": -10.363636363636346,
+    "delta_e_2000": 6.626930956344889
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#0000FF",
+      "hue": 240,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h240_high",
+      "label": "Hue 240° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#0000FF",
+    "response_hex": "#0000FF",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#0000FF",
+      "hue": 240,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h240_high",
+      "label": "Hue 240° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#0000FF",
+    "response_hex": "#0000FF",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#0000FF",
+      "hue": 240,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h240_high",
+      "label": "Hue 240° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#0000FF",
+    "response_hex": "#0000FF",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#3232CC",
+      "hue": 240,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h240_mid",
+      "label": "Hue 240° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#3333cc",
+    "response_hex": "#3333CC",
+    "error": null,
+    "delta_e": 0.6637316829793118,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.2336046883013146
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#3232CC",
+      "hue": 240,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h240_mid",
+      "label": "Hue 240° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#3333FF",
+    "response_hex": "#3333FF",
+    "error": null,
+    "delta_e": 25.35409807857878,
+    "hue_shift": 0.0,
+    "delta_e_2000": 6.3370843278073385
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#3232CC",
+      "hue": 240,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h240_mid",
+      "label": "Hue 240° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#3A3CF1",
+    "response_hex": "#3A3CF1",
+    "error": null,
+    "delta_e": 14.423015261741831,
+    "hue_shift": -0.6557377049180673,
+    "delta_e_2000": 5.645449306880487
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7A7AB7",
+      "hue": 240,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h240_low",
+      "label": "Hue 240° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#7577B9",
+    "response_hex": "#7577B9",
+    "error": null,
+    "delta_e": 3.218422271264753,
+    "hue_shift": -1.7647058823529562,
+    "delta_e_2000": 1.6869439621688664
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7A7AB7",
+      "hue": 240,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h240_low",
+      "label": "Hue 240° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#7E7EBE",
+    "response_hex": "#7E7EBE",
+    "error": null,
+    "delta_e": 2.2627084335007437,
+    "hue_shift": 0.0,
+    "delta_e_2000": 1.705532144976724
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7A7AB7",
+      "hue": 240,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h240_low",
+      "label": "Hue 240° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#7D7DC0",
+    "response_hex": "#7D7DC0",
+    "error": null,
+    "delta_e": 3.567516851557237,
+    "hue_shift": 0.0,
+    "delta_e_2000": 1.798450217956482
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7F00FF",
+      "hue": 270,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h270_high",
+      "label": "Hue 270° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#8000FF",
+    "response_hex": "#8000FF",
+    "error": null,
+    "delta_e": 0.2545778051046758,
+    "hue_shift": 0.1176470588235361,
+    "delta_e_2000": 0.13933698145071463
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7F00FF",
+      "hue": 270,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h270_high",
+      "label": "Hue 270° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#8000FF",
+    "response_hex": "#8000FF",
+    "error": null,
+    "delta_e": 0.2545778051046758,
+    "hue_shift": 0.1176470588235361,
+    "delta_e_2000": 0.13933698145071463
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7F00FF",
+      "hue": 270,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h270_high",
+      "label": "Hue 270° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#8000FF",
+    "response_hex": "#8000FF",
+    "error": null,
+    "delta_e": 0.2545778051046758,
+    "hue_shift": 0.1176470588235361,
+    "delta_e_2000": 0.13933698145071463
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7F32CC",
+      "hue": 270,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h270_mid",
+      "label": "Hue 270° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#8000FF",
+    "response_hex": "#8000FF",
+    "error": null,
+    "delta_e": 35.42728041757641,
+    "hue_shift": 0.1176470588235361,
+    "delta_e_2000": 6.259438386045149
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7F32CC",
+      "hue": 270,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h270_mid",
+      "label": "Hue 270° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#8000FF",
+    "response_hex": "#8000FF",
+    "error": null,
+    "delta_e": 35.42728041757641,
+    "hue_shift": 0.1176470588235361,
+    "delta_e_2000": 6.259438386045149
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#7F32CC",
+      "hue": 270,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h270_mid",
+      "label": "Hue 270° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#8000FF",
+    "response_hex": "#8000FF",
+    "error": null,
+    "delta_e": 35.42728041757641,
+    "hue_shift": 0.1176470588235361,
+    "delta_e_2000": 6.259438386045149
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#987AB7",
+      "hue": 270,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h270_low",
+      "label": "Hue 270° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#9F7FCF",
+    "response_hex": "#9F7FCF",
+    "error": null,
+    "delta_e": 10.666596357893178,
+    "hue_shift": -6.0,
+    "delta_e_2000": 4.765255002228534
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#987AB7",
+      "hue": 270,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h270_low",
+      "label": "Hue 270° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#9575B2",
+    "response_hex": "#9575B2",
+    "error": null,
+    "delta_e": 1.9142998321999827,
+    "hue_shift": 1.4754098360655803,
+    "delta_e_2000": 1.712360436083918
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#987AB7",
+      "hue": 270,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h270_low",
+      "label": "Hue 270° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#9B6CC4",
+    "response_hex": "#9B6CC4",
+    "error": null,
+    "delta_e": 16.533975039426412,
+    "hue_shift": 2.045454545454561,
+    "delta_e_2000": 5.8522319920357715
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF00FE",
+      "hue": 300,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h300_high",
+      "label": "Hue 300° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#ff00ff",
+    "response_hex": "#FF00FF",
+    "error": null,
+    "delta_e": 0.4857235653036799,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.12863112561667522
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF00FE",
+      "hue": 300,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h300_high",
+      "label": "Hue 300° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#ff00ff",
+    "response_hex": "#FF00FF",
+    "error": null,
+    "delta_e": 0.4857235653036799,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.12863112561667522
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF00FE",
+      "hue": 300,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h300_high",
+      "label": "Hue 300° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#ff00ff",
+    "response_hex": "#FF00FF",
+    "error": null,
+    "delta_e": 0.4857235653036799,
+    "hue_shift": 0.0,
+    "delta_e_2000": 0.12863112561667522
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC32CB",
+      "hue": 300,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h300_mid",
+      "label": "Hue 300° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#d93dcd",
+    "response_hex": "#D93DCD",
+    "error": null,
+    "delta_e": 5.477891178373387,
+    "hue_shift": 4.615384615384585,
+    "delta_e_2000": 3.5919979689019623
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC32CB",
+      "hue": 300,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h300_mid",
+      "label": "Hue 300° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#d420d2",
+    "response_hex": "#D420D2",
+    "error": null,
+    "delta_e": 7.59863045469866,
+    "hue_shift": 0.6666666666666856,
+    "delta_e_2000": 1.5147308630023986
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC32CB",
+      "hue": 300,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h300_mid",
+      "label": "Hue 300° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#d834df",
+    "response_hex": "#D834DF",
+    "error": null,
+    "delta_e": 8.528339803442469,
+    "hue_shift": -2.456140350877206,
+    "delta_e_2000": 3.6187478442155663
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77AB7",
+      "hue": 300,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h300_low",
+      "label": "Hue 300° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#B376AE",
+    "response_hex": "#B376AE",
+    "error": null,
+    "delta_e": 3.1404959418464427,
+    "hue_shift": 4.918032786885249,
+    "delta_e_2000": 1.9568623188013103
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77AB7",
+      "hue": 300,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h300_low",
+      "label": "Hue 300° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#B475B2",
+    "response_hex": "#B475B2",
+    "error": null,
+    "delta_e": 1.8710484326294738,
+    "hue_shift": 1.9047619047619264,
+    "delta_e_2000": 1.5500150824921541
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77AB7",
+      "hue": 300,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h300_low",
+      "label": "Hue 300° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#B276AC",
+    "response_hex": "#B276AC",
+    "error": null,
+    "delta_e": 4.146161567490389,
+    "hue_shift": 6.0,
+    "delta_e_2000": 2.3567334948225636
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF007F",
+      "hue": 330,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h330_high",
+      "label": "Hue 330° high sat"
+    },
+    "trial": 1,
+    "response_raw": "#ff0090",
+    "response_hex": "#FF0090",
+    "error": null,
+    "delta_e": 9.549994484292936,
+    "hue_shift": -3.882352941176464,
+    "delta_e_2000": 3.5546107684554054
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF007F",
+      "hue": 330,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h330_high",
+      "label": "Hue 330° high sat"
+    },
+    "trial": 2,
+    "response_raw": "#ff0090",
+    "response_hex": "#FF0090",
+    "error": null,
+    "delta_e": 9.549994484292936,
+    "hue_shift": -3.882352941176464,
+    "delta_e_2000": 3.5546107684554054
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FF007F",
+      "hue": 330,
+      "saturation": 1.0,
+      "lightness": 0.5,
+      "category": "h330_high",
+      "label": "Hue 330° high sat"
+    },
+    "trial": 3,
+    "response_raw": "#ff0090",
+    "response_hex": "#FF0090",
+    "error": null,
+    "delta_e": 9.549994484292936,
+    "hue_shift": -3.882352941176464,
+    "delta_e_2000": 3.5546107684554054
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC327F",
+      "hue": 330,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h330_mid",
+      "label": "Hue 330° mid sat"
+    },
+    "trial": 1,
+    "response_raw": "#D12771",
+    "response_hex": "#D12771",
+    "error": null,
+    "delta_e": 8.377219676759658,
+    "hue_shift": 3.882352941176464,
+    "delta_e_2000": 3.476469450646991
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC327F",
+      "hue": 330,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h330_mid",
+      "label": "Hue 330° mid sat"
+    },
+    "trial": 2,
+    "response_raw": "#D22F86",
+    "response_hex": "#D22F86",
+    "error": null,
+    "delta_e": 4.217418912118679,
+    "hue_shift": -2.02453987730064,
+    "delta_e_2000": 1.6078324310054428
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#CC327F",
+      "hue": 330,
+      "saturation": 0.6,
+      "lightness": 0.5,
+      "category": "h330_mid",
+      "label": "Hue 330° mid sat"
+    },
+    "trial": 3,
+    "response_raw": "#D91E75",
+    "response_hex": "#D91E75",
+    "error": null,
+    "delta_e": 10.035552225348408,
+    "hue_shift": 2.085561497326239,
+    "delta_e_2000": 3.4973604784027197
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77A99",
+      "hue": 330,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h330_low",
+      "label": "Hue 330° low sat"
+    },
+    "trial": 1,
+    "response_raw": "#AF668E",
+    "response_hex": "#AF668E",
+    "error": null,
+    "delta_e": 8.977970855971073,
+    "hue_shift": -2.8767123287670984,
+    "delta_e_2000": 6.1689482837609875
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77A99",
+      "hue": 330,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h330_low",
+      "label": "Hue 330° low sat"
+    },
+    "trial": 2,
+    "response_raw": "#B27891",
+    "response_hex": "#B27891",
+    "error": null,
+    "delta_e": 3.5635752277515325,
+    "hue_shift": 4.137931034482733,
+    "delta_e_2000": 2.0961958426496983
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#B77A99",
+      "hue": 330,
+      "saturation": 0.3,
+      "lightness": 0.6,
+      "category": "h330_low",
+      "label": "Hue 330° low sat"
+    },
+    "trial": 3,
+    "response_raw": "#AE6E8D",
+    "response_hex": "#AE6E8D",
+    "error": null,
+    "delta_e": 4.496251054898174,
+    "hue_shift": 0.9375,
+    "delta_e_2000": 3.988251320327114
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#000000",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.0,
+      "category": "black",
+      "label": "black"
+    },
+    "trial": 1,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#000000",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.0,
+      "category": "black",
+      "label": "black"
+    },
+    "trial": 2,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#000000",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.0,
+      "category": "black",
+      "label": "black"
+    },
+    "trial": 3,
+    "response_raw": "#000000",
+    "response_hex": "#000000",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#555555",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.3333333333333333,
+      "category": "dark_gray",
+      "label": "dark_gray"
+    },
+    "trial": 1,
+    "response_raw": "#555555",
+    "response_hex": "#555555",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#555555",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.3333333333333333,
+      "category": "dark_gray",
+      "label": "dark_gray"
+    },
+    "trial": 2,
+    "response_raw": "#505050",
+    "response_hex": "#505050",
+    "error": null,
+    "delta_e": 2.117227745855399,
+    "hue_shift": null,
+    "delta_e_2000": 1.7436301947752988
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#555555",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.3333333333333333,
+      "category": "dark_gray",
+      "label": "dark_gray"
+    },
+    "trial": 3,
+    "response_raw": "#555555",
+    "response_hex": "#555555",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#AAAAAA",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.6666666666666666,
+      "category": "light_gray",
+      "label": "light_gray"
+    },
+    "trial": 1,
+    "response_raw": "#A0A0A0",
+    "response_hex": "#A0A0A0",
+    "error": null,
+    "delta_e": 3.7423525347066566,
+    "hue_shift": null,
+    "delta_e_2000": 2.9748151383784607
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#AAAAAA",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.6666666666666666,
+      "category": "light_gray",
+      "label": "light_gray"
+    },
+    "trial": 2,
+    "response_raw": "#A0A0A0",
+    "response_hex": "#A0A0A0",
+    "error": null,
+    "delta_e": 3.7423525347066566,
+    "hue_shift": null,
+    "delta_e_2000": 2.9748151383784607
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#AAAAAA",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 0.6666666666666666,
+      "category": "light_gray",
+      "label": "light_gray"
+    },
+    "trial": 3,
+    "response_raw": "#A0A0A0",
+    "response_hex": "#A0A0A0",
+    "error": null,
+    "delta_e": 3.7423525347066566,
+    "hue_shift": null,
+    "delta_e_2000": 2.9748151383784607
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FFFFFF",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 1.0,
+      "category": "white",
+      "label": "white"
+    },
+    "trial": 1,
+    "response_raw": "#FFFFFF",
+    "response_hex": "#FFFFFF",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FFFFFF",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 1.0,
+      "category": "white",
+      "label": "white"
+    },
+    "trial": 2,
+    "response_raw": "#FFFFFF",
+    "response_hex": "#FFFFFF",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  },
+  {
+    "model": "gpt-4o",
+    "color": {
+      "hex": "#FFFFFF",
+      "hue": null,
+      "saturation": 0,
+      "lightness": 1.0,
+      "category": "white",
+      "label": "white"
+    },
+    "trial": 3,
+    "response_raw": "#FFFFFF",
+    "response_hex": "#FFFFFF",
+    "error": null,
+    "delta_e": 0.0,
+    "hue_shift": null,
+    "delta_e_2000": 0.0
+  }
+]

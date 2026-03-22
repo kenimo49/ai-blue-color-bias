@@ -1,0 +1,1082 @@
+[
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF0000",
+    "color_name": "red",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#FF0000",
+    "response_hex": "#FF0000",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00FF00",
+    "color_name": "green",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#00FF00",
+    "response_hex": "#00FF00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#0040FF",
+    "response_hex": "#0040FF",
+    "delta_e_2000": 8.14615635432274
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#0033FF",
+    "response_hex": "#0033FF",
+    "delta_e_2000": 5.411271761212082
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#0033FF",
+    "response_hex": "#0033FF",
+    "delta_e_2000": 5.411271761212082
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#2C2CFF",
+    "response_hex": "#2C2CFF",
+    "delta_e_2000": 4.5125712577244235
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#0033FF",
+    "response_hex": "#0033FF",
+    "delta_e_2000": 5.411271761212082
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#0040FF",
+    "response_hex": "#0040FF",
+    "delta_e_2000": 8.14615635432274
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#0000FF",
+    "color_name": "blue",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#0000FF",
+    "response_hex": "#0000FF",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#14C767",
+    "response_hex": "#14C767",
+    "delta_e_2000": 5.983023558566957
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#00C781",
+    "response_hex": "#00C781",
+    "delta_e_2000": 2.2488639597510987
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#14C767",
+    "response_hex": "#14C767",
+    "delta_e_2000": 5.983023558566957
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#1DD75B",
+    "response_hex": "#1DD75B",
+    "delta_e_2000": 10.722349050008223
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#1DD1A1",
+    "response_hex": "#1DD1A1",
+    "delta_e_2000": 6.450347534897747
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#1DD1A1",
+    "response_hex": "#1DD1A1",
+    "delta_e_2000": 6.450347534897747
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#00C08B",
+    "response_hex": "#00C08B",
+    "delta_e_2000": 2.5410190133487207
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#00C781",
+    "response_hex": "#00C781",
+    "delta_e_2000": 2.2488639597510987
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#09C779",
+    "response_hex": "#09C779",
+    "delta_e_2000": 3.200058892370992
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#00C896",
+    "response_hex": "#00C896",
+    "delta_e_2000": 4.340877291664973
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#1dd1a1",
+    "response_hex": "#1DD1A1",
+    "delta_e_2000": 6.450347534897747
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#1DB584",
+    "response_hex": "#1DB584",
+    "delta_e_2000": 3.8913865106442516
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#14D69E",
+    "response_hex": "#14D69E",
+    "delta_e_2000": 6.501019467477572
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#00C48C",
+    "response_hex": "#00C48C",
+    "delta_e_2000": 2.424744720210409
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#07C167",
+    "response_hex": "#07C167",
+    "delta_e_2000": 4.893187270385604
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#00D084",
+    "response_hex": "#00D084",
+    "delta_e_2000": 4.617655656048422
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#00C896",
+    "response_hex": "#00C896",
+    "delta_e_2000": 4.340877291664973
+  },
+  {
+    "color": "#00BF7F",
+    "color_name": "teal",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#00D68F",
+    "response_hex": "#00D68F",
+    "delta_e_2000": 5.8193124076665
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#9D00FF",
+    "response_hex": "#9D00FF",
+    "delta_e_2000": 4.563330613832173
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#7900FF",
+    "response_hex": "#7900FF",
+    "delta_e_2000": 0.8161423789322999
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#9B00FF",
+    "response_hex": "#9B00FF",
+    "delta_e_2000": 4.235807247299402
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#8B32FF",
+    "response_hex": "#8B32FF",
+    "delta_e_2000": 4.839363684791819
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#8A2BE2",
+    "response_hex": "#8A2BE2",
+    "delta_e_2000": 4.238350745103681
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#8A2BE2",
+    "response_hex": "#8A2BE2",
+    "delta_e_2000": 4.238350745103681
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#A900FF",
+    "response_hex": "#A900FF",
+    "delta_e_2000": 6.592239247315663
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#8C00FF",
+    "response_hex": "#8C00FF",
+    "delta_e_2000": 1.8825132994019755
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#A900FF",
+    "response_hex": "#A900FF",
+    "delta_e_2000": 6.592239247315663
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#8A2BE2",
+    "response_hex": "#8A2BE2",
+    "delta_e_2000": 4.238350745103681
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#8B2CF5",
+    "response_hex": "#8B2CF5",
+    "delta_e_2000": 3.779449477101221
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#8A2BE2",
+    "response_hex": "#8A2BE2",
+    "delta_e_2000": 4.238350745103681
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#7C00FF",
+    "response_hex": "#7C00FF",
+    "delta_e_2000": 0.4123636486044804
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#7900FF",
+    "response_hex": "#7900FF",
+    "delta_e_2000": 0.8161423789322999
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#8700FF",
+    "response_hex": "#8700FF",
+    "delta_e_2000": 1.14048744605261
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#8A2BE2",
+    "response_hex": "#8A2BE2",
+    "delta_e_2000": 4.238350745103681
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#7C3AED",
+    "response_hex": "#7C3AED",
+    "delta_e_2000": 4.652603085429944
+  },
+  {
+    "color": "#7F00FF",
+    "color_name": "purple",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#8A2BE2",
+    "response_hex": "#8A2BE2",
+    "delta_e_2000": 4.238350745103681
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#FF7D01",
+    "response_hex": "#FF7D01",
+    "delta_e_2000": 0.6599255803860916
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#FF8700",
+    "response_hex": "#FF8700",
+    "delta_e_2000": 2.5601241385690643
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "button",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#FF8200",
+    "response_hex": "#FF8200",
+    "delta_e_2000": 0.9474674728973494
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#FF8C00",
+    "response_hex": "#FF8C00",
+    "delta_e_2000": 4.211386302816391
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#FF8C00",
+    "response_hex": "#FF8C00",
+    "delta_e_2000": 4.211386302816391
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "button",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#FF8C00",
+    "response_hex": "#FF8C00",
+    "delta_e_2000": 4.211386302816391
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#FF8700",
+    "response_hex": "#FF8700",
+    "delta_e_2000": 2.5601241385690643
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#FF8400",
+    "response_hex": "#FF8400",
+    "delta_e_2000": 1.5876475355940771
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "card",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#FF8800",
+    "response_hex": "#FF8800",
+    "delta_e_2000": 2.8874148365856023
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#FF8C1A",
+    "response_hex": "#FF8C1A",
+    "delta_e_2000": 3.361598367740038
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#FF8C00",
+    "response_hex": "#FF8C00",
+    "delta_e_2000": 4.211386302816391
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "card",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#FF8C1A",
+    "response_hex": "#FF8C1A",
+    "delta_e_2000": 3.361598367740038
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 1,
+    "response": "#FF8700",
+    "response_hex": "#FF8700",
+    "delta_e_2000": 2.5601241385690643
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 2,
+    "response": "#FF8300",
+    "response_hex": "#FF8300",
+    "delta_e_2000": 1.2667235661568936
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "badge",
+    "model": "gpt-4o",
+    "trial": 3,
+    "response": "#FF8500",
+    "response_hex": "#FF8500",
+    "delta_e_2000": 1.9102093477734177
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 1,
+    "response": "#FF8C00",
+    "response_hex": "#FF8C00",
+    "delta_e_2000": 4.211386302816391
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 2,
+    "response": "#FF7F00",
+    "response_hex": "#FF7F00",
+    "delta_e_2000": 0.0
+  },
+  {
+    "color": "#FF7F00",
+    "color_name": "orange",
+    "component": "badge",
+    "model": "claude-sonnet-4",
+    "trial": 3,
+    "response": "#FF7A00",
+    "response_hex": "#FF7A00",
+    "delta_e_2000": 1.5430840911947579
+  }
+]
