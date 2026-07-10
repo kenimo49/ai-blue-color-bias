@@ -114,3 +114,7 @@ pdflatex main.tex && pdflatex main.tex
 ## License
 
 MIT — use freely, cite if you publish.
+
+---
+
+If this project saved you time, you can [sponsor its continued maintenance](https://github.com/sponsors/kenimo49).
